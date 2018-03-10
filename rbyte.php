@@ -1,4 +1,3 @@
-#!/usr/local/bin/php
 <?php
 if(count($argv)  < 4 || count($argv) > 5) {
 	echo "arg wrong!";
